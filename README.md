@@ -3,13 +3,10 @@ My Python Tetris Clone
 
 CREDITS
 
-Created by: Nikocraft
-
-Version: Beta 1.2
-
-Programming language: Python
-
-Used modules/packages: Pygame, Get Opt, Random, Json, Date Time, Time, Os, Sys, Math
+- Created by: Nikocraft
+- Version: Beta 1.2
+- Programming language: Python
+- Used modules/packages: Pygame, Get Opt, Random, Json, Date Time, Time, Os, Sys, Math
 
 
 INSTALL TUTORIAL
